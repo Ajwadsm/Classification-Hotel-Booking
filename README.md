@@ -7,12 +7,13 @@ The dataset provided by Kaggle website: 'https://www.kaggle.com/mojtaba142/hotel
 
 
 # Question/need:
-1-Select what year was the most reservation in?
-2-What is the cancellation rate for each hotel?
-3-What is the month in which there were the most cancellations, and what is the month in which there were the least cancellations?
-4-Is the number of changes of the reservation affected by (market_segment)?
-5-Is booking changes affected by deposit type or by days in waiting list?
-6-How many hotel reservation in weekend night vs week nights?
+*
+   1-Select what year was the most reservation in?
+   2-What is the cancellation rate for each hotel?
+   3-What is the month in which there were the most cancellations, and what is the month in which there were the least cancellations?
+   4-Is the number of changes of the reservation affected by (market_segment)?
+   5-Is booking changes affected by deposit type or by days in waiting list?
+   6-How many hotel reservation in weekend night vs week nights?
 
 
 # Data Description:
@@ -29,7 +30,7 @@ About target column (is canceled) have two classes:
 | 75166 | 44224 | 
 
 # Tools:
--Numpy and Pandas for data manipulation.
+* -Numpy and Pandas for data manipulation.
 -Scikit-learn for modeling.
 -Matplotlib and Seaborn for plotting.
 -Tableau for interactive visualizations.
