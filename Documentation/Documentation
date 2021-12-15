@@ -10,6 +10,11 @@ This project originates from the Data Science Bootcamp (T5) to predict booking t
 
 ## Data
 The dataset contains 119390 observations and 36 columns.
+About target column (is canceled) have two classes:
+|| Class 1 | Class 2 |
+| --- | --- | --- |
+| `0 (was not canceled)` | `1 (was canceled)` | 
+| 75166 | 44224 |
 
 ## Algorithms
 
